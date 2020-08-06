@@ -1,2 +1,2 @@
 # Granjeros
-Team site
+hide if you can
