@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## Granjeros
 
-You can use the [editor on GitHub](https://github.com/MBeckt/Granjeros/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Is an [autistic](https://www.nhs.uk/conditions/autism/) place for friends to like each other a little less.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you feel like a prick come and join a channel and talk non-stop while other people try to ignore you.
 
-### Markdown
+### Munt Bot
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The latest in autistic engineering, [munt bot](https://github.com/MBeckt/munt) has been created with making the server a little less bareable and it is constantly getting better.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+{
+  "name": "Nibber",
+  "permissions": "NONE",
+  "restriction": "1",
+  "_id": "fyhAE",
+  "actions": [
+    {
+      "storage": "0",
+      "varName": "",
+      "reason": "Hiding Clutter",
+      "name": "Delete Message"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "name": "Join Voice Channel"
+    },
+    {
+      "url": "https://www.macmillandictionary.com/media/british/uk_pron/n/nig/nigge/nigger_British_English_pronunciation.mp3",
+      "seek": "0",
+      "volume": "100",
+      "passes": "1",
+      "bitrate": "",
+      "type": "1",
+      "name": "Play URL"
+    },
+    {
+      "time": "2",
+      "measurement": "1",
+      "name": "Wait"
+    },
+    {
+      "name": "Leave Voice Channel"
+    }
+  ]
+}
 ```
+### Rampant Censorship
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](https://media.discordapp.net/attachments/704896146061000764/728669953024065616/image0.png)
 
-### Jekyll Themes
+Granjeros used to have an issue with muh free speech not being respected, this is no longer the case. Granjeros is finally free of tyrants thanks to our ever vigillant munt bot, we salute you!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MBeckt/Granjeros/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](https://cdn.discordapp.com/attachments/537654746186514434/740876591738912838/unknown.png)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Granjeros?
+
+...
