@@ -58,4 +58,6 @@ Granjeros used to have an issue with muh free speech not being respected, this i
 
 Having trouble with Granjeros?
 
+[![Watch the video](https://static-3.bitchute.com/live/cover_images/Wce4fs5rV4XY/7wu9QtzBrTSL_640x360.jpg)](https://www.bitchute.com/UGlrF9o9b-Q)
+
 ...
